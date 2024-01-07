@@ -41,8 +41,8 @@ body{
 }
 
 .left-part .photo-container img{
-    width: 50%;
-    height: 50%;
+    width: 70%;
+    height: 70%;
     border-radius: 50%;
     border: 1rem solid white;
     box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
